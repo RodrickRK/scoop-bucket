@@ -1,0 +1,25 @@
+{
+    "version": "0.1.0",
+    "architecture": {
+        "64bit": {
+            "url": "https://github.com/RodrickRK/boox-debloat/releases/download/v0.1.0/boox-debloat_0.1.0_windows_amd64.zip",
+            "bin": [
+                "boox-debloat.exe"
+            ],
+            "hash": "bbcad863e639c66c81c52c5de3fc60e67e09b02a33dfbea8a20b5523d6020b38"
+        },
+        "arm64": {
+            "url": "https://github.com/RodrickRK/boox-debloat/releases/download/v0.1.0/boox-debloat_0.1.0_windows_arm64.zip",
+            "bin": [
+                "boox-debloat.exe"
+            ],
+            "hash": "e184bfd555a45f0a737e90b87556715057a27ab50ddef2c43a3866f53af5d400"
+        }
+    },
+    "homepage": "https://github.com/RodrickRK/boox-debloat",
+    "license": "MIT",
+    "description": "Safely debloat the Onyx Boox C69 M Star and keep the sleep screen working",
+    "depends": [
+        "adb"
+    ]
+}
