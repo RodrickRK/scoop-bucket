@@ -1,19 +1,19 @@
 {
-    "version": "0.4.0",
+    "version": "0.5.0",
     "architecture": {
         "64bit": {
-            "url": "https://github.com/RodrickRK/boox-debloat/releases/download/v0.4.0/boox-debloat_0.4.0_windows_amd64.zip",
+            "url": "https://github.com/RodrickRK/boox-debloat/releases/download/v0.5.0/boox-debloat_0.5.0_windows_amd64.zip",
             "bin": [
                 "boox-debloat.exe"
             ],
-            "hash": "98587fe7009ac3c2c7506b6c55cbdc5cbe7e0dbc142e63f745a9d88287bc4ccd"
+            "hash": "85dcb3efce2df83fc782ee23f558cd8a1a11f86f8d4c5c3694b5253d58c03139"
         },
         "arm64": {
-            "url": "https://github.com/RodrickRK/boox-debloat/releases/download/v0.4.0/boox-debloat_0.4.0_windows_arm64.zip",
+            "url": "https://github.com/RodrickRK/boox-debloat/releases/download/v0.5.0/boox-debloat_0.5.0_windows_arm64.zip",
             "bin": [
                 "boox-debloat.exe"
             ],
-            "hash": "e4f529de0041fc85ee34fedd5261a027d28fdd73135a02eabbd2a604604fccf9"
+            "hash": "37a7a2a261bd6c873872f217bf0640961c404440596b84841daa558f839dd854"
         }
     },
     "homepage": "https://github.com/RodrickRK/boox-debloat",
